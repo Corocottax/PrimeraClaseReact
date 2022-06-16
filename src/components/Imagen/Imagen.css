@@ -1,0 +1,7 @@
+.imagen {
+    width: 300px;
+    height: 200px;
+    border: orange 5px solid;
+    border-radius: 30px;
+    margin: 30px;
+}
